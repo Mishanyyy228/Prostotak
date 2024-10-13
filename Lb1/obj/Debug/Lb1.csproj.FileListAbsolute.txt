@@ -1,0 +1,17 @@
+C:\Users\manan\OneDrive\Рабочий стол\Lb1\obj\Debug\Lb1.csproj.AssemblyReference.cache
+C:\Users\manan\OneDrive\Рабочий стол\Lb1\obj\Debug\LogIn.g.cs
+C:\Users\manan\OneDrive\Рабочий стол\Lb1\obj\Debug\Registration.g.cs
+C:\Users\manan\OneDrive\Рабочий стол\Lb1\obj\Debug\App.g.cs
+C:\Users\manan\OneDrive\Рабочий стол\Lb1\obj\Debug\Lb1_MarkupCompile.cache
+C:\Users\manan\OneDrive\Рабочий стол\Lb1\obj\Debug\Lb1_MarkupCompile.lref
+C:\Users\manan\OneDrive\Рабочий стол\Lb1\bin\Debug\Lb1.exe.config
+C:\Users\manan\OneDrive\Рабочий стол\Lb1\bin\Debug\Lb1.exe
+C:\Users\manan\OneDrive\Рабочий стол\Lb1\bin\Debug\Lb1.pdb
+C:\Users\manan\OneDrive\Рабочий стол\Lb1\obj\Debug\LogIn.baml
+C:\Users\manan\OneDrive\Рабочий стол\Lb1\obj\Debug\Registration.baml
+C:\Users\manan\OneDrive\Рабочий стол\Lb1\obj\Debug\Lb1.g.resources
+C:\Users\manan\OneDrive\Рабочий стол\Lb1\obj\Debug\Lb1.Properties.Resources.resources
+C:\Users\manan\OneDrive\Рабочий стол\Lb1\obj\Debug\Lb1.csproj.GenerateResource.cache
+C:\Users\manan\OneDrive\Рабочий стол\Lb1\obj\Debug\Lb1.csproj.CoreCompileInputs.cache
+C:\Users\manan\OneDrive\Рабочий стол\Lb1\obj\Debug\Lb1.exe
+C:\Users\manan\OneDrive\Рабочий стол\Lb1\obj\Debug\Lb1.pdb

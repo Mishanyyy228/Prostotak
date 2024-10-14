@@ -63,6 +63,16 @@ namespace Lb1.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _5217769998146199571 {
+            get {
+                object obj = ResourceManager.GetObject("_5217769998146199571", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap fbd77efb_cf91_44bf_a1f4_9b1ac7516c80 {
             get {
                 object obj = ResourceManager.GetObject("fbd77efb_cf91_44bf_a1f4_9b1ac7516c80", resourceCulture);

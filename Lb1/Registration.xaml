@@ -150,7 +150,7 @@
             <TextBox x:Name="Pass_user" FontSize="16"  Grid.Row="6"  Foreground="#FF6C6868" BorderThickness="0,0,0,1" VerticalAlignment="Bottom" GotFocus="Pass_user_GotFocus"></TextBox>
             <Label Grid.Row="7" Content="Повторите пароль" VerticalAlignment="Bottom" FontSize="20"></Label>
             <TextBox x:Name="Pass_user1" FontSize="16" Grid.Row="8"  Foreground="#FF6C6868" BorderThickness="0,0,0,1" VerticalAlignment="Bottom" GotFocus="Pass_user1_GotFocus"  ></TextBox>
-            <Button Style="{DynamicResource ButtonStyle1}" Grid.Row="10" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="250" Height="45" Content="Зарегестрироваться" Background="#FFC37979" Name="Button" ></Button>
+            <Button Style="{DynamicResource ButtonStyle1}" Grid.Row="10" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="250" Height="45" Content="Зарегестрироваться" Background="#FFC37979" Name="Button" Click="Button_Click_1" ></Button>
             <Button Style="{DynamicResource ButtonStyle2}"  Grid.Row="12" VerticalAlignment="Top" HorizontalAlignment="Left" Width="250" Height="45" Content="Назад" FlowDirection="RightToLeft" Background="#FFC37979" Click="Button_Click"  ></Button>
 
         </Grid>

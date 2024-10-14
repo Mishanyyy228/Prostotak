@@ -142,7 +142,7 @@
             <Label Grid.Row="3" Content="Пароль" VerticalAlignment="Bottom" FontSize="20" ></Label>
             <TextBox x:Name="Password_user11"  Grid.Row="4" FontSize="16" Foreground="#FF706A6A" BorderThickness="0,0,0,1"  VerticalAlignment="Center" GotFocus="Password_user11_GotFocus" ></TextBox>
             <Label Grid.Row="5" HorizontalAlignment="Right"  ></Label>
-            <Button Style="{DynamicResource ButtonStyle1}"   Grid.Row="6 " VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="250" Background="#FFC37979" Height="45" Content="Войти" ></Button>
+            <Button Style="{DynamicResource ButtonStyle1}"   Grid.Row="6 " VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="250" Background="#FFC37979" Height="45" Content="Войти" Click="Button_Click_2" ></Button>
             <Button Style="{DynamicResource ButtonStyle2}"   Grid.Row="7 " HorizontalAlignment="Left" Width="250" Height="45" Background="#FFC37979" Content="Регисрация" Click="Button_Click"  ></Button>
         </Grid>
         <Image Width="116" VerticalAlignment="Top" HorizontalAlignment="Center" Source="C:\Users\manan\OneDrive\Рабочий стол\Lb1\Resources\fbd77efb-cf91-44bf-a1f4-9b1ac7516c80.jpg" RenderTransformOrigin="0.584,0.23" Margin="0,83,0,0" />
